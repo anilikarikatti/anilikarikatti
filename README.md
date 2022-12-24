@@ -1,5 +1,7 @@
 # Hi there im Anil AK 👋
 
-`#RRGGBB` im a Full Stack developer 
+![](https://komarev.com/ghpvc/?username=anilikarikatti&color=green)
+
+### im a Full Stack developer 
 
 ### 
