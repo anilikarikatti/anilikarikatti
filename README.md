@@ -1,5 +1,5 @@
-### Hi there im Anil AK 👋
+# Hi there im Anil AK 👋
 
-### im a Full Stack developer 
+#RRGGBB` im a Full Stack developer 
 
 ### 
