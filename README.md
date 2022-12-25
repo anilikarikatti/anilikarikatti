@@ -4,4 +4,4 @@
 
 ### im a Full Stack developer 
 
-### concatct me using email anilkarikatti333@gmail.com
+### contact me using email: anilkarikatti333@gmail.com
