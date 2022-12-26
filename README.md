@@ -7,3 +7,5 @@
 ### contact me using email: anilkarikatti333@gmail.com
 
 ### skills : react , javascript , node js , html , css , tailwind , next js
+
+### Education : B E in Computer Science
