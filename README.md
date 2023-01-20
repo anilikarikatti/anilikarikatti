@@ -9,3 +9,5 @@
 ### skills : react , javascript , node js , html , css , tailwind , next js
 
 ### Education : B E in Computer Science
+
+### student of Sathvik Softech hubli 
