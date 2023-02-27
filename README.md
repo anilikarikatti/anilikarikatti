@@ -8,6 +8,8 @@
 
 ### skills : react , javascript , node js , html , css , tailwind , next js
 
+### Resume : [click]( https://anilikarikatti.github.io/resume/)
+
 ### Education : B E in Computer Science
 
 ### student of Sathvik Softech hubli 
