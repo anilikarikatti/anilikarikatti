@@ -8,9 +8,11 @@
    
 ### contact me using email: anilkarikatti333@gmail.com
 
-### skills : react , javascript , node js , html , css , tailwind , next js
+### skills : react , javascript , node js , html , css , tailwind , next js , mysql
 
 ### Resume : [click]( https://anilikarikatti.github.io/resume/)
+ 
+ ### My WebSite : [click](https://portpolio-anilikarikatti.vercel.app/) 
 
 ### Education : B E in Computer Science
 
