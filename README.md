@@ -16,7 +16,6 @@
 
 ### Education : B E in Computer Science
 
-### student of Sathvik Softech hubli 
  
  ### see my work then contact me
    </div>
