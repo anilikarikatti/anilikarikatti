@@ -1,6 +1,4 @@
- # Hi  👋 ANIL IK   ![](https://komarev.com/ghpvc/?username=anilikarikatti&color=green)  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=anilikarikatti.visitor-badge&left_text=MyPageVisitors)
-
-
+ # Hi  👋 i'm ANIL IK   ![](https://komarev.com/ghpvc/?username=anilikarikatti&color=green)  
 <div style={display:"flex" , height:"100px"} >
    
    
