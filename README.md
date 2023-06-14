@@ -12,8 +12,8 @@
  
  ### My WebSite : [click](https://portpolio-anilikarikatti.vercel.app/) 
 
-### Education : B E in Computer Science
-
+### Education : B E  Computer Science and Engineering
+ 
  
  ### see my work then contact me
    </div>
