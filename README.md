@@ -4,7 +4,7 @@
    
 <div > 
    
-### contact me using email: anilkarikatti333@gmail.com
+### contact me using Email: anilkarikatti333@gmail.com
 
 ### skills : html , css , tailwind ,  javascript , node js, next js , mysql,react 
 
