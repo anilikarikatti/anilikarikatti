@@ -1,4 +1,4 @@
- # Hi  👋 i'm ANIL IK   ![](https://komarev.com/ghpvc/?username=anilikarikatti&color=green)  
+ # <<  Hi  👋 i'm ANIL IK >> ![](https://komarev.com/ghpvc/?username=anilikarikatti&color=green)  
 <div style={display:"flex" , height:"100px"} >
    
    
@@ -6,7 +6,7 @@
    
 ### contact me using Email: anilkarikatti333@gmail.com
 
-### skills : html , css , tailwind ,  javascript , node js, next js , mysql,react 
+### skills : html , css , tailwind css,  javascript , node js, next js , mysql,react js 
 
 ### Resume : [click]( https://anilikarikatti.github.io/resume/)
  
