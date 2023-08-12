@@ -35,5 +35,8 @@
 ### Education : B E  Computer Science and Engineering  :student: 
  
    </div>
- <img src= "https://github.com/anilikarikatti/anilikarikatti/assets/48754895/5222a546-c81f-48e8-9343-5c32b799fc12" height=400 width=500 style={border-radius:"150px"}>
+ <img src= "https://github.com/anilikarikatti/anilikarikatti/assets/48754895/e6b773e4-f447-4103-806a-51a3c7658bd9" height=350 width=500 style={border-radius:"150px"}>
 <!-- ![ben-kolde-bs2Ba7t69mM-unsplash](https://github.com/anilikarikatti/anilikarikatti/assets/48754895/5222a546-c81f-48e8-9343-5c32b799fc12) -->
+
+
+
