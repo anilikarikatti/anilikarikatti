@@ -1,12 +1,12 @@
 
- #   Hi  👋 i'm ANIL IK  :technologist:         ![](https://komarev.com/ghpvc/?username=anilikarikatti&color=green)  
+ #   Hi  👋 I'm ANIL IK  :technologist:         ![](https://komarev.com/ghpvc/?username=anilikarikatti&color=green)  
 <div style={display:"flex" , height:"100px"} >
    
    
 <div > 
    
 
-## skills :dizzy: : 
+## Skills used :dizzy: : 
 ![html](https://github.com/anilikarikatti/anilikarikatti/assets/48754895/58469646-a2d4-49e4-a790-5cfbbcef2a10)
 ![css](https://github.com/anilikarikatti/anilikarikatti/assets/48754895/39c40f10-af00-40fd-9053-4292e1fbedbd)
 ![js](https://github.com/anilikarikatti/anilikarikatti/assets/48754895/3792ef50-b5a7-48bb-b60c-9d4f2c9ac4bf)
