@@ -32,6 +32,8 @@
  
  ### My WebSite :point_right: : [click here ](https://ak-anilikarikatti.vercel.app/) 
 
+  ### Blogs :point_right: : [click here ](https://medium.com/@anilkarikatti333) 
+
 ### Education : B E  Computer Science and Engineering  :student: 
  
    </div>
