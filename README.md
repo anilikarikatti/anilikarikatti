@@ -28,8 +28,7 @@
 
  
 
-### Resume :point_right: : [click here]( https://anilikarikatti.github.io/resume/)
- 
+
  ### My WebSite :point_right: : [click here ](https://ak-anilikarikatti.vercel.app/) 
 
   ### Blogs :point_right: : [click here ](https://medium.com/@anilkarikatti333) 
