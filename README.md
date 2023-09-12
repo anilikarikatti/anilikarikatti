@@ -33,7 +33,7 @@
 
   ### Blogs :point_right: : [click here ](https://medium.com/@anilkarikatti333) 
 
-### Education : B E  Computer Science and Engineering  :student: 
+ 
  
    </div>
  <img src= "https://github.com/anilikarikatti/anilikarikatti/assets/48754895/e6b773e4-f447-4103-806a-51a3c7658bd9" height=250 width=500 style={border-radius:"150px"}>
