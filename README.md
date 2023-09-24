@@ -1,12 +1,23 @@
+<h1 align="center">Hi 👋, I'm Anil Karikatti</h1>
+<h3 align="center">A passionate full stack developer</h3>
 
- #   Hi  👋 I'm ANIL IK  :technologist:         ![](https://komarev.com/ghpvc/?username=anilikarikatti&color=green)  
-<div style={display:"flex" , height:"100px"} >
-   
-   
-<div > 
-   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilikarikatti&label=Profile%20views&color=0e75b6&style=flat" alt="anilikarikatti" /> </p>
 
-## Skills used :dizzy: : 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilikarikatti" alt="anilikarikatti" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://ak-anilikarikatti.vercel.app/](https://ak-anilikarikatti.vercel.app/)
+
+- 📝 I regularly write articles on [https://medium.com/@anilkarikatti333](https://medium.com/@anilkarikatti333)
+
+- 📫 How to reach me **anilkarikatti333@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anil-karikatti-6619aa210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anil-karikatti-6619aa210/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
 ![html](https://github.com/anilikarikatti/anilikarikatti/assets/48754895/58469646-a2d4-49e4-a790-5cfbbcef2a10)
 ![css](https://github.com/anilikarikatti/anilikarikatti/assets/48754895/39c40f10-af00-40fd-9053-4292e1fbedbd)
 ![js](https://github.com/anilikarikatti/anilikarikatti/assets/48754895/3792ef50-b5a7-48bb-b60c-9d4f2c9ac4bf)
@@ -19,25 +30,7 @@
 ![aws](https://github.com/anilikarikatti/anilikarikatti/assets/48754895/753d0f0d-1a3f-4584-ab13-19a4fb4ae00c)
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilikarikatti&show_icons=true&locale=en&layout=compact" alt="anilikarikatti" /></p>
 
-
-
-
-
-
-
- 
-
-
- ### My WebSite :point_right: : [click here ](https://ak-anilikarikatti.vercel.app/) 
-
-  ### Blogs :point_right: : [click here ](https://medium.com/@anilkarikatti333) 
-
- 
- 
-   </div>
- <img src= "https://github.com/anilikarikatti/anilikarikatti/assets/48754895/e6b773e4-f447-4103-806a-51a3c7658bd9" height=250 width=500 style={border-radius:"150px"}>
-<!-- ![ben-kolde-bs2Ba7t69mM-unsplash](https://github.com/anilikarikatti/anilikarikatti/assets/48754895/5222a546-c81f-48e8-9343-5c32b799fc12) -->
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilikarikatti&show_icons=true&locale=en" alt="anilikarikatti" /></p>
 
