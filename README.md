@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ak-anilikarikatti.vercel.app/](https://ak-anilikarikatti.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@anilkarikatti333](https://medium.com/@anilkarikatti333)
+- 📝 I regularly write articles on medium [https://medium.com/@anilkarikatti333](https://medium.com/@anilkarikatti333)
 
 - 📫 How to reach me **anilkarikatti333@gmail.com**
 
