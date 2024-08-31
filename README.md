@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Anil Karikatti</h1>
+<h1 align="center">Hello 👋, I'm Anil Karikatti</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilikarikatti&label=Profile%20views&color=0e75b6&style=flat" alt="anilikarikatti" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilikarikatti" alt="anilikarikatti" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ak-anilikarikatti.vercel.app/](https://ak-anilikarikatti.vercel.app/)
+- 👨‍💻 All of my projects are available here [https://ak-anilikarikatti.vercel.app/](https://ak-anilikarikatti.vercel.app/)
 
 - 📝 I regularly write articles on medium [https://medium.com/@anilkarikatti333](https://medium.com/@anilkarikatti333)
 
