@@ -1,42 +1,102 @@
-<h1 align="center">Hello 👋, I'm Anil Karikatti</h1>
-<h3 align="center">A Passionate Software Developer</h3>
+<h1 align="center">Hi 👋, I'm Anil Karikatti</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilikarikatti&label=Profile%20views&color=0e75b6&style=flat" alt="anilikarikatti" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilikarikatti" alt="anilikarikatti" /></a> </p>
-
-- 👨‍💻 All of my projects are available here [https://ak-anilikarikatti.vercel.app/](https://ak-anilikarikatti.vercel.app/)
-
-- 📝 I regularly write articles on medium [https://medium.com/@anilkarikatti333](https://medium.com/@anilkarikatti333)
-
-- Leet code Link (https://leetcode.com/anil_karikatti/)
-
-- 📫 How to reach me **anilkarikatti333@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anilkarikatti333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anil-karikatti-6619aa210/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Building+Scalable+Web+Applications;Open+to+Opportunities" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">🚀 Full Stack Developer | Building Scalable & High-Performance Apps</h3>
 
-![html](https://github.com/anilikarikatti/anilikarikatti/assets/48754895/58469646-a2d4-49e4-a790-5cfbbcef2a10)
-![css](https://github.com/anilikarikatti/anilikarikatti/assets/48754895/39c40f10-af00-40fd-9053-4292e1fbedbd)
-![js](https://github.com/anilikarikatti/anilikarikatti/assets/48754895/3792ef50-b5a7-48bb-b60c-9d4f2c9ac4bf)
-![icons8-typescript-48](https://github.com/user-attachments/assets/c2eeac26-bca4-4580-82cc-5729275d98a2)
-![icons8-java-48](https://github.com/user-attachments/assets/2d24be44-3c82-49cd-aaa0-74e37f1301de)
-![react](https://github.com/anilikarikatti/anilikarikatti/assets/48754895/9cbfcd52-6174-433d-ae33-6918a8d99613)
-<img src="https://github.com/user-attachments/assets/f2eeff69-8cce-4fd4-9cde-9b302e9a905b" height="60px" alt="next js">
-![node](https://github.com/anilikarikatti/anilikarikatti/assets/48754895/b0bcae95-4973-44a4-ab42-7b41762364a5)
-![icons8-express-js](https://github.com/user-attachments/assets/057597d8-3221-4626-befd-b575ce54a320)
-![icons8-nestjs-48](https://github.com/user-attachments/assets/a21cdbbe-d065-4511-848c-d6842256609e)
-![icons8-mysql-48](https://github.com/user-attachments/assets/892fbfb2-f5c6-4797-b63f-6b9d83cb4330)
-![tailwind](https://github.com/anilikarikatti/anilikarikatti/assets/48754895/3d249f9f-af37-40b4-a91d-171bf460aafa)
-![icons8-aws](https://github.com/user-attachments/assets/433818cb-f812-4484-9060-dcc645fbb7fd)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anilikarikatti&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
+---
 
+## 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilikarikatti&show_icons=true&locale=en&layout=compact&theme=dark" alt="anilikarikatti"  /></p>
+- 🔭 I’m currently working on **Full Stack Web Development**
+- 🌱 I’m learning **System Design & Cloud Architecture**
+- 💬 Ask me about **React, Node.js, TypeScript, APIs**
+- 📫 Reach me at **anilkarikatti333@gmail.com**
+- 🌐 Portfolio: [ak-anilikarikatti.vercel.app](https://ak-anilikarikatti.vercel.app/)
+- ✍️ Blogs: [medium.com/@anilkarikatti333](https://medium.com/@anilkarikatti333)
+- 🧠 LeetCode: [leetcode.com/anil_karikatti](https://leetcode.com/anil_karikatti/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilikarikatti&show_icons=true&locale=en&theme=dark" alt="anilikarikatti" /></p>
+---
 
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/anilkarikatti333/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:anilkarikatti333@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+### 🧑‍💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,nginx,githubactions" />
+</p>
+
+### 🛠️ Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anilikarikatti&theme=onedark&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anilikarikatti&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilikarikarikatti&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=anilikarikatti&theme=tokyonight" />
+</p>
+
+---
+
+## ✨ Fun Fact
+
+> 💡 I love building real-world scalable applications and solving DSA problems!
+
+---
